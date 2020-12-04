@@ -1,0 +1,7 @@
+collectors:
+  material: prismarine_slab
+  base-rate: 0.5
+material-values:
+  DIRT: 1
+  IRON_INGOT: 256
+  default: 1

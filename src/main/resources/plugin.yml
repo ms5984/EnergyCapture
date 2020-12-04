@@ -1,0 +1,9 @@
+name: EnergyCapture
+version: ${project.version}
+main: com.github.ms5984.energycapture.EnergyCapture
+api-version: 1.13
+authors: [ms5984]
+description: ${project.description}
+permissions:
+  energycapture.collector.place:
+    description: Place new collector
